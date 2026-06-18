@@ -55,7 +55,7 @@ why the system was warning and nobody helped. It will be marked in a system to e
 
 This is how you create code examples:  
 
-#please read at first: "do not use code, images, data etc. from others without permission" - "I was inspired by the exercise 20: Logistic Regression - of the Building AI Course of the University Helsinki."
+#please read at first: "do not use code, images, data etc. from others without permission" - "I was inspired by the exercise 20: Logistic Regression - of the Building AI Course of the University Helsinki. Picture is made by ChatGPT, created on the prompt of my summary!"
                                                                                 
                                                                                 
 import math
