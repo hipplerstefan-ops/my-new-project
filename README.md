@@ -10,9 +10,9 @@ Final project for the Building AI course
 
 ## Summary
 
-I thought about an intelligence microphone system in schools who check the noises around their environment in a case of danger or violences. 
+I thought about an intelligence microphone system in schools who check the noises around their environment in a case of danger or violence. 
 An artificial intelligence shall interprete and check the noises. The voices of the kids will never been saved on its system. 
-The only value we need is the decibel. If the decibel of a voice between the noises will be higher than it should be, 
+The only value which will be need is the decibel. If the decibel of a voice between the noises will be higher than it should be, 
 the teachers will get a message on their phone, to check the place with the exactly data of the point of the floor or room. 
 
 ## Background
@@ -38,16 +38,17 @@ These are my questions at the beginning of my idea, which i have at all. Some mo
 * How can teachers get the message of the AIIS?
 * How many time do teachers have, to check the place, of the scream or noise?
 
-* Do we need a neural network to valuate a special index value of noises? Yes, we need it to get a system which is trained and presents exactly reliable informations by time. 
+* Do we need a neural network to valuate a special index value of noises? Yes, we need it to get a system which is trained and presents exactly reliable informations by any time. A part for professionels.
 * How many different neurons do we need for the system to weight each characteristic and how we determine the characteristics, if a neural network will be work in the background as well? That will be a question for the real software architects.  
 * etc... i think their will be a lot more questions, if prorgrammer code it. 
 
-The following code is only a spark of it. Therefore i want to convince all programmer in the world to check it out, change, evaluate it and try to make it to a smart system, 
-for the health of all of us, for the next nice educated society. The Future is now, sitting in their classrooms, waiting for your help, that AIIS can protect their lives and perhaps the lives of all of us in public places.    
+The following code is only a spark of it. Therefore i want to convince every programmer in the world to check it out, change, evaluate it and try to make it to a smart system, for the health of all of us, for the next nice educated society. 
+
+The Future is now, sitting in their classrooms, waiting for your help, that AIIS can protect their lives and perhaps the lives of all of us in public places.    
 
 ## How is it used?
 
-Is someone shooting, crying or loose someone his bag and cry for help, the system will send a message to all teachers, to check the place. 
+Is someone shooting, crying or loose someone his bag and cry for help, the system will send a message to all teachers, to check that place. 
 If they checked it, they have an individual time to fix that problem otherwise the police will come to check the situation und have to ask the director, 
 why the system was warning and nobody helped. It will be marked in a system to evaluate how serious schools do something against their problems of violence. 
 
@@ -132,7 +133,7 @@ I have asked google the diffrent assesment values of each situation.
 
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
-There are several problems - to take care that no personal data or words will be saved. At any time the AIIS is only allowed to react on special words like "Help" or the different gun shots for example or racism words which are already measured and saved on different plattforms i think. Everybody has the right to see how the AIIS is working in the background. Comments should explain how the programm works, for the directors at school and for any other person as well. Ideas are welcome at every time. Pupils are allowed to check the code, if they want to and they are invited to solve different problems which the programm can have.  
+There are several problems - to take care that no personal data or words will be saved. At any time the AIIS is only allowed to react on special words like "Help" or the different gun shots for example or racism words which are already measured and saved on different plattforms i think. Everybody has the right to see how the AIIS is working in the background. Comments should explain how the programm works, for the directors at school and for any other person as well. Ideas are welcome at every time. Pupils are allowed to check the code if they want to and they are invited to solve different problems which the programm can have.  
 
 The ethical consideration is to take care to handle it right and not influence the people in any negative way. It should be only trained to help for circumstances to save humans live. Any disregard of personal informations or incorrect use of the application have to be clarified by a democratic law, although my idea will be used in any kind of that way! 
                                                                                 
