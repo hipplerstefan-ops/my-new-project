@@ -51,7 +51,7 @@ Is someone shooting, crying or loose someone his bag and cry for help, the syste
 If they checked it, they have an individual time to fix that problem otherwise the police will come to check the situation und have to ask the director, 
 why the system was warning and nobody helped. It will be marked in a system to evaluate how serious schools do something against their problems of violence. 
 
-<img src="DSC_0118.JPG">
+<img src="ChatGPT Image 18. Juni 2026, 13_37_30.png">
 
 This is how you create code examples:  
 
