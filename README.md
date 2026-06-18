@@ -147,7 +147,7 @@ I think, i need programmers and scientists who are able to build it up the rest 
 to make it happen and the people and goverments who understand that i only want to help, to keep us to live in safe places.
 I believe next generations will grow up with less violence and can concentrate on their goals instead to see school as something wrong or an institution where they don`t feel save. 
 
-If we have a laws in our countries, that parents are commited to bring their childrens to school, the goverment has the commitement to take care for the security of any child at every time, that it has the possibility to understand the tasks they need to. The price of a curious human beeing which is interested to learn and solve the problems of the future is too high to loose.    
+If we have a laws in our countries, that parents are commited to bring their childrens to school, the goverment has the commitement to take care for the security of any child at every time, so they would have the possibility to understand the tasks they need to. The price of a curious human beeing which is interested to learn and solve the problems of the future is too high to loose.    
 
 
 ## Acknowledgments
