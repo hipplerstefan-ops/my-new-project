@@ -51,12 +51,6 @@ Is someone shooting, crying or loose someone his bag and cry for help, the syste
 If they checked it, they have an individual time to fix that problem otherwise the police will come to check the situation und have to ask the director, 
 why the system was warning and nobody helped. It will be marked in a system to evaluate how serious schools do something against their problems of violence. 
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-Once you upload an image to your repository, you can link link to it like this.
-
-If you need to resize images, you have to use an HTML tag, like this:
 <img src="DSC_0118.JPG">
 
 This is how you create code examples:  
