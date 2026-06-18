@@ -10,7 +10,7 @@ Final project for the Building AI course
 
 ## Summary
 
-I thought about intelligence microphone system in schools who check the noises around their environment in a case of danger or violences. 
+I thought about an intelligence microphone system in schools who check the noises around their environment in a case of danger or violences. 
 An artificial intelligence shall interprete and check the noises. The voices of the kids will never been saved on its system. 
 The only value we need is the decibel. If the decibel of a voice between the noises will be higher than it should be, 
 the teachers will get a message on their phone, to check the place with the exactly data of the point of the floor or room. 
@@ -29,7 +29,7 @@ These are my questions at the beginning of my idea, which i have at all. Some mo
 
 * What is the acceptable normal surrounded decibel in schools? 
 * What is a really high decibel during schools live?
-* How many microphones need a school, for each floor and class room?
+* How many microphones need a school, for each floor and class room to run a system like that?
 
 * What does it cost and is it possible to pay for that kind of system?
 * How can learn the artificial intelligence to understand, that students scream, because they need help or having only a party or make loud noises, 
@@ -55,7 +55,7 @@ why the system was warning and nobody helped. It will be marked in a system to e
 
 This is how you create code examples:  
 
-#please read at first: "do not use code, images, data etc. from others without permission" - "I was inspired by the exercise 20: Logistic Regression."
+#please read at first: "do not use code, images, data etc. from others without permission" - "I was inspired by the exercise 20: Logistic Regression - of the Building AI Course of the University Helsinki."
                                                                                 
                                                                                 
 import math
@@ -123,7 +123,7 @@ Where does your data come from? Do you collect it yourself or do you use data co
                                                                                 
 I am not sure, but i think we have a lot of data on different databases, which can be used to train this kind of AI. 
 Nevertheless it is important to measure the average decibel on a day for each place at school. 
-So that the AI knows for every place the average decibel value.  
+So the AI knows for every place the average decibel value.  
 
 Shots by a gun are already measured. I think we have already data, that AI can interprete the voice if someone needs really help or it is just a faked scream. 
 I have asked google the diffrent assesment values of each situation. 
@@ -146,7 +146,7 @@ I think, i need programmers and scientists who are able to build it up the rest 
 to make it happen and the people and goverments who understand that i only want to help, to keep us to live in safe places.
 I believe next generations will grow up with less violence and can concentrate on their goals instead to see school as something wrong or an institution where they don`t feel save. 
 
-If we have a law, that parents are commited to bring their childrens to school, the goverment has the commitement to take care for the security of any child at every time, that it has the possibility to understand the tasks they need to. The price of a curious human beeing which is interested to to learn and solve the problems of the future is too high to loose.    
+If we have a laws in our countries, that parents are commited to bring their childrens to school, the goverment has the commitement to take care for the security of any child at every time, that it has the possibility to understand the tasks they need to. The price of a curious human beeing which is interested to learn and solve the problems of the future is too high to loose.    
 
 
 ## Acknowledgments
